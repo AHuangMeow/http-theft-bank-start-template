@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Grand-Theft-Auto-In-CCNU-MUXI/hacker-support/httptool"
+	"github.com/weiji6/hacker-support/httptool"
 )
 
 func main() {

@@ -57,11 +57,11 @@ http://gtainmuxi.muxixyz.com/api/v1/organization/code
 
 * 为了更容易通关，需要导入 hacker-support 包 
   
-  包地址： https://github.com/Grand-Theft-Auto-In-CCNU-MUXI/hacker-support
+  包地址： https://github.com/weiji6/hacker-support
 
 * 有能力的可以看服务端源码，等于作弊通关
   
-  服务端地址： https://github.com/Grand-Theft-Auto-In-CCNU-MUXI/http-theft-bank
+  服务端地址： https://github.com/weiji6/http-theft-bank
 
 ## 附录 http
 
