@@ -1,7 +1,7 @@
 module http-theft-bank-start-template/checkpoint5
 
-go 1.14
+go 1.25.4
 
-replace github.com/weiji6/hacker-support => github.com/Grand-Theft-Auto-In-CCNU-MUXI/hacker-support v0.0.0-20211010055649-cac6c3c2bedb
+require github.com/AHuangMeow/hacker-support v0.0.0-20251112135538-c21491d87e07
 
-require github.com/weiji6/hacker-support v0.0.0-00010101000000-000000000000
+require github.com/blackfireio/osinfo v1.0.2 // indirect
